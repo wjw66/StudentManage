@@ -1,0 +1,16 @@
+a:hover{
+	color: red;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+td{
+	border:solid #add9c0;
+	border-width:0px 1px 1px 0px;
+}
+table {
+	border: solid #add9c0;
+	border-width: 1px 0px 0px 1px;
+
+}
